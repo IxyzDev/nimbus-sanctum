@@ -1,4 +1,5 @@
-# Nimbus Sanctum: Mi camino para Dominar Cloud Computing
+# Nimbus Sanctum
+Mi camino para Dominar Cloud Computing
 
 ## Índice de Contenidos
 
